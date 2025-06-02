@@ -1,0 +1,7 @@
+Input:
+list: Bread Eggs Milk Cheese Tomatoes
+left= 2
+right= 4
+
+Expected Output:
+Bread -> Cheese -> Milk -> Eggs -> Tomatoes
