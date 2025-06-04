@@ -1,0 +1,22 @@
+# Test Case 1
+6
+PUSH 5
+PUSH 2
+MIN
+POP
+MIN
+POP
+# Expected Output:
+2
+5
+
+# Test Case 2
+5
+PUSH 10
+POP
+MIN
+PUSH 4
+MIN
+# Expected Output:
+EMPTY
+4
