@@ -1,0 +1,11 @@
+Input: [2,3,2], k=2
+Output: 6
+
+Input: [5,1,1,1], k=0
+Output: 8
+
+Input: [1,1,1,1], k=2
+Output: 3
+
+Input: [2,2,2], k=1
+Output: 5

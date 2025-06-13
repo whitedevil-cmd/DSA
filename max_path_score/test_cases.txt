@@ -1,0 +1,11 @@
+Test Case 1:
+Input: 1 -1 -2 4 -7 3, K = 2
+Output: 7
+
+Test Case 2:
+Input: 10 -5 -2 100 -30 50, K = 3
+Output: 158
+
+Test Case 3:
+Input: 5 4 3 2 1, K = 1
+Output: 15

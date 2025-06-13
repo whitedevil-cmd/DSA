@@ -1,0 +1,19 @@
+Test Case 1:
+Input: [3, 30, 34, 5, 9]
+Expected Output: 9534330
+
+Test Case 2:
+Input: [10, 2]
+Expected Output: 210
+
+Test Case 3:
+Input: [1]
+Expected Output: 1
+
+Test Case 4:
+Input: [0, 0]
+Expected Output: 0
+
+Test Case 5:
+Input: [20, 1, 34, 3, 98, 9]
+Expected Output: 998342031

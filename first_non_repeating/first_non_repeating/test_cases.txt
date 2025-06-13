@@ -1,0 +1,8 @@
+Input: aabc
+Expected Output: a#bb
+
+Input: abacabad
+Expected Output: aaaaabbc
+
+Input: aabbcc
+Expected Output: a#b#c#

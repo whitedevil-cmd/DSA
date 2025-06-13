@@ -1,0 +1,15 @@
+Test Case 1:
+Input: RDD
+Output: Dire
+
+Test Case 2:
+Input: DRRDR
+Output: Radient
+
+Test Case 3:
+Input: D
+Output: Dire
+
+Test Case 4:
+Input: R
+Output: Radient

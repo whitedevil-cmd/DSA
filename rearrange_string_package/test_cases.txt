@@ -1,0 +1,5 @@
+Input: aab
+Output: aba
+
+Input: aaab
+Output: 

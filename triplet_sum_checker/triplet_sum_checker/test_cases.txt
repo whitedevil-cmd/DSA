@@ -1,0 +1,23 @@
+Test Case 1:
+Input:
+6
+1 4 45 6 10 8
+22
+Output:
+True
+
+Test Case 2:
+Input:
+4
+1 2 4 5
+10
+Output:
+False
+
+Test Case 3:
+Input:
+5
+0 -1 2 -3 1
+-2
+Output:
+True
